@@ -1,0 +1,46 @@
+{
+    "result": [
+               {
+               "category": "Sweets",
+               "xScrollItems": [
+                             "gums_ball",
+                             "gums_peppermint",
+                             "gums",
+                             "jellybeans_capsule",
+                             "jellybeans_choco",
+                             "jellybeans_pack"
+                             ]
+               },
+               {
+               "category": "Fruits",
+               "xScrollItems": [
+                             "apple",
+                             "apricots",
+                             "mango",
+                             "oranges",
+                             "pears",
+                             "starfruits",
+                             "strawberries"
+                             ]
+               },
+               {
+               "category": "Assorted",
+               "xScrollItems": [
+                             "jellybeans_capsule",
+                             "jellybeans_choco",
+                             "starfruits",
+                             "gums_ball",
+                             "strawberries",
+                             "gums",
+                             "apple",
+                             "pears",
+                             "gums_peppermint",
+                             "mango",
+                             "oranges",
+                             "gums_ball",
+                             "apricots",
+                             "jellybeans_pack"
+                             ]
+               }
+               ]
+}
