@@ -22,13 +22,13 @@ Create a subclass of UICollectionViewCell as your own customisable `Content Cell
 #### Table View Cell
 Define ASOXScrollTableViewCell as the Class of the intended Table View Cell and set the `contentCellClass’ key in the ‘User Defined Runtime Attributes’ to the name of `Content Cell` Class.
 
-![ASOXScrollTableViewCell storyboard preview](https://raw.githubusercontent.com/wiki/agusso/ASOXScrollTableViewCell/Assets/ASOXScrollTableViewCell--tableviewcell-storyboard.png)
+![ASOXScrollTableViewCell storyboard preview](https://raw.githubusercontent.com/wiki/agusso/ASOXScrollTableViewCell/Assets/ASOXScrollTableViewCell-tableviewcell-storyboard.png)
 
-![ASOXScrollTableViewCell identifier storyboard preview](https://raw.githubusercontent.com/wiki/agusso/ASOXScrollTableViewCell/Assets/ASOXScrollTableViewCell--tableviewcell-identifier-storyboard.png)
+![ASOXScrollTableViewCell identifier storyboard preview](https://raw.githubusercontent.com/wiki/agusso/ASOXScrollTableViewCell/Assets/ASOXScrollTableViewCell-tableviewcell-identifier-storyboard.png)
 
 ### Implementation
 
-Set the designated View Controller as the delegate of `ASOXScrollTableViewCell` Class. If your View Controller is not a Subclass of UITableViewController, set it explicitly as the delegate of ‘UITableViewDelegate’ and UITableViewDataSource’ too.  
+Set the designated View Controller as the delegate of `ASOXScrollTableViewCell` class. If your View Controller is not a Subclass of UITableViewController, set it explicitly as the delegate of ‘UITableViewDelegate’ and UITableViewDataSource’ too.  
 
 ``` objectivec
 #import <ASOXScrollTableViewCell.h>
@@ -94,8 +94,7 @@ Set below delegate methods accordingly.
 }
 ```
 
-* Configure each item in `Content Cell`
-Configure each item in `Content Cell` and use the same ‘Reusable Cell Identifier’ defined in the `Content Cell’ xib previously.
+* Configure each item in `Content Cell` and use the same ‘Reusable Cell Identifier’ defined in the `Content Cell` xib previously.
 
 ``` objectivec
 - (UICollectionViewCell *)horizontalScrollContentsView:(UICollectionView *)horizontalScrollContentsView cellForItemAtContentIndexPath:(NSIndexPath *)contentIndexPath inTableViewIndexPath:(NSIndexPath *)tableViewIndexPath {
