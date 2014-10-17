@@ -9,7 +9,7 @@ This App shows the implementation of ASOXScrollTableViewCell library.
 Add these lines in the Podfile:
 
 ``` ruby
-pod 'ASOXScrollTableViewCell’
+pod 'ASOXScrollTableViewCell'
 ```
 
 ### Content Cell
