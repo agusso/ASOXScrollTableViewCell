@@ -1,11 +1,12 @@
 # ASOXScrollTableViewCell
 
-[![CI Status](http://img.shields.io/travis/Agus Soedibjo/ASOXScrollTableViewCell.svg?style=flat)](https://travis-ci.org/Agus Soedibjo/ASOXScrollTableViewCell)
-[![Version](https://img.shields.io/cocoapods/v/ASOXScrollTableViewCell.svg?style=flat)](http://cocoadocs.org/docsets/ASOXScrollTableViewCell)
-[![License](https://img.shields.io/cocoapods/l/ASOXScrollTableViewCell.svg?style=flat)](http://cocoadocs.org/docsets/ASOXScrollTableViewCell)
-[![Platform](https://img.shields.io/cocoapods/p/ASOXScrollTableViewCell.svg?style=flat)](http://cocoadocs.org/docsets/ASOXScrollTableViewCell)
+[![Version](https://img.shields.io/cocoapods/v/ASOXScrollTableViewCell.svg?style=flat)]((https://github.com/agusso/ASOXScrollTableViewCell/releases/tag/0.1.0))
+[![License](https://img.shields.io/cocoapods/l/ASOXScrollTableViewCell.svg?style=flat)](http://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/cocoapods/p/ASOXScrollTableViewCell.svg?style=flat)]((https://developer.apple.com/devcenter/ios/index.action))
 
 `ASOXScrollTableViewCell` is an easy setup library for implementing a Horizontal Scroll Table View Cell.
+
+![Animation Preview](https://raw.githubusercontent.com/wiki/agusso/ASOXScollTableViewCell/Assets/ASOXScrollTableViewCell-preview-full.gif)
 
 ## Usage
 
@@ -20,15 +21,17 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 `ASOXScrollTableViewCell` is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
-pod 'ASOXScrollTableViewCell'
+``` ruby
+pod 'ASOXScrollTableViewCell’
+```
 
 Or `Add File` in the `Pod/Classes/` directory from this repo into your project.
 
 ### Sample Code
 
-The easiest way to learn how to use `ASOAnimatedButton` is by going through the example apps in  `Examples.xcworkspace` and follow its README for the Quick Start Guide.
+The easiest way to learn how to use `ASOXScrollTableViewCell` is by going through the example apps in  `Example.xcworkspace` and follow its README for the Quick Start Guide.
 
-* [XScrollExample](Example/XScrollExample/) shows how to implement ASOXScrollTableViewCell.
+* [Example Project - XScroll](Example/XScroll/) shows how to implement ASOXScrollTableViewCell.
 
 ## Getting Help
 
