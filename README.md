@@ -6,7 +6,7 @@
 
 `ASOXScrollTableViewCell` is an easy setup library for implementing a Horizontal Scroll Table View Cell.
 
-![Animation Preview](https://raw.githubusercontent.com/wiki/agusso/ASOXScollTableViewCell/Assets/ASOXScrollTableViewCell-preview-full.gif)
+![Animation Preview](https://raw.githubusercontent.com/wiki/agusso/ASOXScrollTableViewCell/Assets/ASOXScrollTableViewCell_Preview.gif)
 
 ## Usage
 
