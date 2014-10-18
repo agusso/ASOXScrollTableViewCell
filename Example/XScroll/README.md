@@ -103,9 +103,7 @@ Set below delegate methods accordingly.
     
     XScrollViewCell *cell = (XScrollViewCell *)[horizontalScrollContentsView dequeueReusableCellWithReuseIdentifier:cellIdentifier forIndexPath:contentIndexPath];
     
-    UIImage *articleImageName = [UIImage imageNamed:[[[_xScrollDataSource objectAtIndex:tableViewIndexPath.section] xScrollItems] objectAtIndex:contentIndexPath.item]];
-    
-    cell.articleImage.image = articleImageName;
+    // Configure the Content Cell
 
     return cell;
 }
