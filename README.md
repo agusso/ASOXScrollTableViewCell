@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/cocoapods/l/ASOXScrollTableViewCell.svg?style=flat)](http://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/cocoapods/p/ASOXScrollTableViewCell.svg?style=flat)](https://developer.apple.com/devcenter/ios/index.action)
 
-`ASOXScrollTableViewCell` is an easy setup library for implementing a Horizontal Scroll Table View Cell.
+`ASOXScrollTableViewCell` is an easy-to-setup library for implementing Horizontal Scroll Table View Cell.
 
 ![Animation Preview](https://raw.githubusercontent.com/wiki/agusso/ASOXScrollTableViewCell/Assets/ASOXScrollTableViewCell_Preview.gif)
 
