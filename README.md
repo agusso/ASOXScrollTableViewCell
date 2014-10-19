@@ -1,8 +1,8 @@
 # ASOXScrollTableViewCell
 
-[![Version](https://img.shields.io/cocoapods/v/ASOXScrollTableViewCell.svg?style=flat)]((https://github.com/agusso/ASOXScrollTableViewCell/releases/tag/0.1.0))
+[![Version](https://img.shields.io/cocoapods/v/ASOXScrollTableViewCell.svg?style=flat)](https://github.com/agusso/ASOXScrollTableViewCell/releases/tag/0.1.0)
 [![License](https://img.shields.io/cocoapods/l/ASOXScrollTableViewCell.svg?style=flat)](http://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/cocoapods/p/ASOXScrollTableViewCell.svg?style=flat)]((https://developer.apple.com/devcenter/ios/index.action))
+[![Platform](https://img.shields.io/cocoapods/p/ASOXScrollTableViewCell.svg?style=flat)](https://developer.apple.com/devcenter/ios/index.action)
 
 `ASOXScrollTableViewCell` is an easy setup library for implementing a Horizontal Scroll Table View Cell.
 
