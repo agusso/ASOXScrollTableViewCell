@@ -1,5 +1,5 @@
 PODS:
-  - ASOXScrollTableViewCell (0.1.0)
+  - ASOXScrollTableViewCell (0.1.1)
 
 DEPENDENCIES:
   - ASOXScrollTableViewCell (from `../ASOXScrollTableViewCell.podspec`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../ASOXScrollTableViewCell.podspec
 
 SPEC CHECKSUMS:
-  ASOXScrollTableViewCell: a84719db6c33d056c979d28422629b0b4853c6eb
+  ASOXScrollTableViewCell: 020747663d2f73fe5c184ae705bfd44a6fb9ec2a
 
-COCOAPODS: 0.34.2
+COCOAPODS: 0.38.0
