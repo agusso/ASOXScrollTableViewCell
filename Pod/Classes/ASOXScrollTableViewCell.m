@@ -35,7 +35,7 @@
 
 + (ASOXScrollTableViewCell *)tableView:(UITableView *)tableView cellForRowInTableViewIndexPath:(NSIndexPath *)tableViewIndexPath withReusableCellIdentifier:(NSString *)cellIdentifier delegate:(id)object {
     
-    ASOXScrollTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier forIndexPath:tableViewIndexPath];
+    ASOXScrollTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];
     
     cell.delegate = object;
     cell.tableViewIndexPath = tableViewIndexPath;
